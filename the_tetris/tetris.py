@@ -1,8 +1,5 @@
 #my take on tetris
 
-#https://techwithtim.net/tutorials/game-development-with-python/tetris-pygame/tutorial-1/
-#https://techwithtim.net/tutorials/game-development-with-python/tetris-pygame/tutorial-4/
-
 import pygame
 import random
 
